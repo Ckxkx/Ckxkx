@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me colors0874@gmail.com.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ✨我的目标：做看的见的产品，学没见过的知识，做最快乐的人！ 
 
 <!---
 Ckxkx/Ckxkx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
