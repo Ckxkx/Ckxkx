@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ckxkx
 - 👀 I’m interested in algorithm and java.
 - 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Huawei.
 - 📫 How to reach me colors0874@gmail.com.
 - ✨我的目标：做看的见的产品，学没见过的知识，做最快乐的人！ 
 
